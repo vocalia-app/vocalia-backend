@@ -6,3 +6,4 @@ google-auth-oauthlib
 twilio
 python-dotenv
 pytz
+gunicorn==21.2.0
